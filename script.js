@@ -25,19 +25,27 @@ function displayResults(results) {
     }
 }
 
-function handleSearch() {
-    const specialty = document.getElementById('specialty').value;
-    const location = document.getElementById('location').value;
-    const day = document.getElementById('day').value;
+function buildSearchQuery(specialty, location, day) {
+    const keyToLookFor = [];
+
+    if (specialty != "") {
+        keyToLookFor.push({ "match": { "specialty": specialty } });
+    }
+
+    if (location != "") {
+        keyToLookFor.push({ "match": { "location": location } });
+    }
+
+    if (day != "") {
+        keyToLookFor.push({ "exists": { "field": `availability.${day}` } });
+    }
+
+    keyToLookFor.push({ "term": { "active": true } });
 
     const query = {
         "query": {
             "bool": {
-                "must": [
-                    { "match": { "specialty": specialty } },
-                    { "match": { "location": location } },
-                    { "exists": { "field": `availability.${day}` } }
-                ]
+                "must": keyToLookFor
             }
         },
         "sort": [
@@ -45,6 +53,10 @@ function handleSearch() {
         ]
     };
 
+    return query;
+}
+
+function makeServerCallToSearch(searchQuery) {
     const xhr = new XMLHttpRequest();
     xhr.open('POST', 'https://localhost:9200/doctors/_search', true);
 
@@ -54,14 +66,11 @@ function handleSearch() {
     xhr.onreadystatechange = function () {
         if (xhr.readyState === XMLHttpRequest.DONE) {
             if (xhr.status === 200) {
-                // Parse the response
                 const response = JSON.parse(xhr.responseText);
                 const hits = response.hits.hits;
 
-                // Process the search results
                 const results = hits.map(hit => hit._source);
 
-                // Display the search results
                 displayResults(results);
             } else {
                 console.error('Failed to fetch search results.');
@@ -69,7 +78,17 @@ function handleSearch() {
         }
     };
 
-    xhr.send(JSON.stringify(query));
+    xhr.send(JSON.stringify(searchQuery));
+}
+
+function handleSearch() {
+    const specialty = document.getElementById('specialty').value;
+    const location = document.getElementById('location').value;
+    const day = document.getElementById('day').value;
+
+    const searchQuery = buildSearchQuery(specialty, location, day);
+
+    makeServerCallToSearch(searchQuery);
 }
 
 document.getElementById('search-btn').addEventListener('click', handleSearch);
