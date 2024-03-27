@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Doctor Search</title>
+  <!-- Include CSS file -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Find A Doctor!</h1>
+    <div class="search-form">
+      <select id="specialty">
+        <option value="">Select Specialty</option>
+        <!-- Hardcoded specialties -->
+        <option value="Cardiology">Cardiology</option>
+        <option value="Dermatology">Dermatology</option>
+        <option value="Orthopedics">Orthopedics</option>
+        <option value="Pediatrics">Pediatrics</option>
+        <option value="Ophthalmology">Ophthalmology</option>
+      </select>
+      <select id="location">
+        <option value="">Select Location</option>
+        <!-- Hardcoded locations -->
+        <option value="Pune">Pune</option>
+        <option value="Mumbai">Mumbai</option>
+        <option value="Delhi">Delhi</option>
+        <option value="Bangalore">Bangalore</option>
+        <option value="Chennai">Chennai</option>
+      </select>
+      <select id="day">
+        <option value="">Select Day</option>
+        <!-- Hardcoded days of the week -->
+        <option value="Monday">Monday</option>
+        <option value="Tuesday">Tuesday</option>
+        <option value="Wednesday">Wednesday</option>
+        <option value="Thursday">Thursday</option>
+        <option value="Friday">Friday</option>
+      </select>
+      <button id="search-btn">Search</button>
+    </div>
+    <div id="results" style="display: none;">
+      <table id="results-table">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Specialty</th>
+            <th>Location</th>
+            <th>Availability</th>
+            <th>Rating</th>
+          </tr>
+        </thead>
+        <tbody id="results-body">
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <!-- Include JavaScript file -->
+  <script src="script.js"></script>
+</body>
+</html>

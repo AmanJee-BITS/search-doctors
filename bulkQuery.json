@@ -1,0 +1,400 @@
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc1","gender":"Male","specialty":"Pediatrics","location":"Mumbai","rating":"3.7","active":true,"availability":{"Monday":["14:00 - 15:00","9:00 - 10:00"],"Tuesday":["14:00 - 15:00"],"Wednesday":["14:00 - 15:00","10:00 - 11:00","15:00 - 16:00"],"Thursday":["11:00 - 12:00","12:00 - 13:00"],"Friday":["12:00 - 13:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc2","gender":"Female","specialty":"Dermatology","location":"Delhi","rating":"3.4","active":false,"availability":{"Monday":["13:00 - 14:00","16:00 - 17:00","14:00 - 15:00"],"Tuesday":["13:00 - 14:00","8:00 - 9:00"],"Wednesday":["12:00 - 13:00","9:00 - 10:00","16:00 - 17:00"],"Thursday":["10:00 - 11:00","12:00 - 13:00"],"Friday":["17:00 - 18:00","13:00 - 14:00","16:00 - 17:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc3","gender":"Female","specialty":"Dermatology","location":"Chennai","rating":"4.4","active":true,"availability":{"Monday":["15:00 - 16:00","13:00 - 14:00"],"Tuesday":["12:00 - 13:00","12:00 - 13:00"],"Wednesday":["8:00 - 9:00"],"Thursday":["17:00 - 18:00"],"Friday":["16:00 - 17:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc4","gender":"Male","specialty":"Orthopedics","location":"Bangalore","rating":"5.0","active":true,"availability":{"Monday":["10:00 - 11:00"],"Tuesday":["12:00 - 13:00"],"Wednesday":["13:00 - 14:00"],"Thursday":["13:00 - 14:00"],"Friday":["17:00 - 18:00","14:00 - 15:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc5","gender":"Male","specialty":"Dermatology","location":"Bangalore","rating":"4.3","active":false,"availability":{"Monday":["13:00 - 14:00","8:00 - 9:00"],"Tuesday":["16:00 - 17:00","16:00 - 17:00"],"Wednesday":["9:00 - 10:00"],"Thursday":["9:00 - 10:00","8:00 - 9:00","13:00 - 14:00"],"Friday":["11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc6","gender":"Female","specialty":"Ophthalmology","location":"Mumbai","rating":"4.0","active":true,"availability":{"Monday":["14:00 - 15:00","15:00 - 16:00"],"Tuesday":["16:00 - 17:00","9:00 - 10:00"],"Wednesday":["13:00 - 14:00","14:00 - 15:00"],"Thursday":["15:00 - 16:00"],"Friday":["13:00 - 14:00","15:00 - 16:00","9:00 - 10:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc7","gender":"Female","specialty":"Dermatology","location":"Mumbai","rating":"3.8","active":true,"availability":{"Monday":["13:00 - 14:00","9:00 - 10:00"],"Tuesday":["14:00 - 15:00"],"Wednesday":["14:00 - 15:00"],"Thursday":["11:00 - 12:00"],"Friday":["8:00 - 9:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc8","gender":"Female","specialty":"Pediatrics","location":"Delhi","rating":"3.6","active":true,"availability":{"Monday":["17:00 - 18:00","11:00 - 12:00","8:00 - 9:00"],"Tuesday":["16:00 - 17:00","16:00 - 17:00"],"Wednesday":["12:00 - 13:00","16:00 - 17:00"],"Thursday":["11:00 - 12:00","13:00 - 14:00","9:00 - 10:00"],"Friday":["9:00 - 10:00","14:00 - 15:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc9","gender":"Male","specialty":"Ophthalmology","location":"Bangalore","rating":"4.3","active":true,"availability":{"Monday":["14:00 - 15:00","9:00 - 10:00","15:00 - 16:00"],"Tuesday":["17:00 - 18:00","17:00 - 18:00","17:00 - 18:00"],"Wednesday":["8:00 - 9:00","15:00 - 16:00","14:00 - 15:00"],"Thursday":["17:00 - 18:00","12:00 - 13:00","11:00 - 12:00"],"Friday":["12:00 - 13:00","16:00 - 17:00","11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc10","gender":"Male","specialty":"Dermatology","location":"Mumbai","rating":"3.1","active":true,"availability":{"Monday":["12:00 - 13:00","10:00 - 11:00","11:00 - 12:00"],"Tuesday":["11:00 - 12:00"],"Wednesday":["9:00 - 10:00","12:00 - 13:00","12:00 - 13:00"],"Thursday":["12:00 - 13:00","9:00 - 10:00","12:00 - 13:00"],"Friday":["11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc11","gender":"Female","specialty":"Cardiology","location":"Bangalore","rating":"4.1","active":false,"availability":{"Monday":["12:00 - 13:00"],"Tuesday":["13:00 - 14:00","14:00 - 15:00","13:00 - 14:00"],"Wednesday":["10:00 - 11:00","13:00 - 14:00","13:00 - 14:00"],"Thursday":["11:00 - 12:00"],"Friday":["11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc12","gender":"Female","specialty":"Dermatology","location":"Bangalore","rating":"4.6","active":true,"availability":{"Monday":["17:00 - 18:00","11:00 - 12:00"],"Tuesday":["9:00 - 10:00","14:00 - 15:00"],"Wednesday":["8:00 - 9:00","12:00 - 13:00"],"Thursday":["14:00 - 15:00","15:00 - 16:00"],"Friday":["15:00 - 16:00","8:00 - 9:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc13","gender":"Male","specialty":"Orthopedics","location":"Mumbai","rating":"4.2","active":false,"availability":{"Monday":["14:00 - 15:00","8:00 - 9:00","17:00 - 18:00"],"Tuesday":["17:00 - 18:00"],"Wednesday":["16:00 - 17:00","13:00 - 14:00"],"Thursday":["13:00 - 14:00"],"Friday":["12:00 - 13:00","12:00 - 13:00","12:00 - 13:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc14","gender":"Female","specialty":"Ophthalmology","location":"Delhi","rating":"4.6","active":true,"availability":{"Monday":["16:00 - 17:00","9:00 - 10:00","9:00 - 10:00"],"Tuesday":["14:00 - 15:00"],"Wednesday":["11:00 - 12:00"],"Thursday":["12:00 - 13:00","15:00 - 16:00","13:00 - 14:00"],"Friday":["10:00 - 11:00","13:00 - 14:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc15","gender":"Male","specialty":"Cardiology","location":"Bangalore","rating":"4.1","active":true,"availability":{"Monday":["17:00 - 18:00","14:00 - 15:00","10:00 - 11:00"],"Tuesday":["12:00 - 13:00","12:00 - 13:00","14:00 - 15:00"],"Wednesday":["15:00 - 16:00"],"Thursday":["9:00 - 10:00"],"Friday":["11:00 - 12:00","16:00 - 17:00","8:00 - 9:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc16","gender":"Male","specialty":"Ophthalmology","location":"Bangalore","rating":"3.9","active":false,"availability":{"Monday":["11:00 - 12:00","8:00 - 9:00","8:00 - 9:00"],"Tuesday":["14:00 - 15:00","9:00 - 10:00","13:00 - 14:00"],"Wednesday":["10:00 - 11:00"],"Thursday":["13:00 - 14:00","8:00 - 9:00","15:00 - 16:00"],"Friday":["16:00 - 17:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc17","gender":"Male","specialty":"Pediatrics","location":"Bangalore","rating":"4.7","active":true,"availability":{"Monday":["14:00 - 15:00","10:00 - 11:00"],"Tuesday":["13:00 - 14:00","17:00 - 18:00","11:00 - 12:00"],"Wednesday":["10:00 - 11:00","16:00 - 17:00"],"Thursday":["15:00 - 16:00","8:00 - 9:00"],"Friday":["17:00 - 18:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc18","gender":"Female","specialty":"Pediatrics","location":"Pune","rating":"3.0","active":true,"availability":{"Monday":["13:00 - 14:00"],"Tuesday":["16:00 - 17:00"],"Wednesday":["15:00 - 16:00","13:00 - 14:00"],"Thursday":["14:00 - 15:00","10:00 - 11:00","13:00 - 14:00"],"Friday":["14:00 - 15:00","13:00 - 14:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc19","gender":"Male","specialty":"Pediatrics","location":"Chennai","rating":"3.0","active":true,"availability":{"Monday":["16:00 - 17:00","11:00 - 12:00"],"Tuesday":["14:00 - 15:00"],"Wednesday":["14:00 - 15:00","13:00 - 14:00"],"Thursday":["16:00 - 17:00","10:00 - 11:00"],"Friday":["14:00 - 15:00","15:00 - 16:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc20","gender":"Male","specialty":"Dermatology","location":"Mumbai","rating":"3.2","active":false,"availability":{"Monday":["12:00 - 13:00","8:00 - 9:00","13:00 - 14:00"],"Tuesday":["15:00 - 16:00","9:00 - 10:00","9:00 - 10:00"],"Wednesday":["17:00 - 18:00","15:00 - 16:00"],"Thursday":["12:00 - 13:00"],"Friday":["11:00 - 12:00","12:00 - 13:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc21","gender":"Male","specialty":"Ophthalmology","location":"Delhi","rating":"5.0","active":false,"availability":{"Monday":["8:00 - 9:00"],"Tuesday":["11:00 - 12:00","17:00 - 18:00","12:00 - 13:00"],"Wednesday":["16:00 - 17:00","9:00 - 10:00","9:00 - 10:00"],"Thursday":["8:00 - 9:00"],"Friday":["10:00 - 11:00","12:00 - 13:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc22","gender":"Male","specialty":"Ophthalmology","location":"Bangalore","rating":"4.5","active":true,"availability":{"Monday":["16:00 - 17:00","9:00 - 10:00","15:00 - 16:00"],"Tuesday":["13:00 - 14:00","15:00 - 16:00"],"Wednesday":["14:00 - 15:00","14:00 - 15:00"],"Thursday":["15:00 - 16:00","17:00 - 18:00"],"Friday":["10:00 - 11:00","14:00 - 15:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc23","gender":"Female","specialty":"Orthopedics","location":"Delhi","rating":"3.6","active":true,"availability":{"Monday":["9:00 - 10:00","15:00 - 16:00"],"Tuesday":["15:00 - 16:00"],"Wednesday":["15:00 - 16:00","9:00 - 10:00"],"Thursday":["12:00 - 13:00","13:00 - 14:00"],"Friday":["11:00 - 12:00","13:00 - 14:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc24","gender":"Female","specialty":"Orthopedics","location":"Chennai","rating":"3.9","active":true,"availability":{"Monday":["16:00 - 17:00"],"Tuesday":["15:00 - 16:00","16:00 - 17:00"],"Wednesday":["11:00 - 12:00","16:00 - 17:00"],"Thursday":["12:00 - 13:00","11:00 - 12:00","8:00 - 9:00"],"Friday":["13:00 - 14:00","9:00 - 10:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc25","gender":"Female","specialty":"Ophthalmology","location":"Mumbai","rating":"3.6","active":true,"availability":{"Monday":["13:00 - 14:00","11:00 - 12:00","16:00 - 17:00"],"Tuesday":["11:00 - 12:00","11:00 - 12:00","15:00 - 16:00"],"Wednesday":["11:00 - 12:00","9:00 - 10:00"],"Thursday":["17:00 - 18:00","17:00 - 18:00","16:00 - 17:00"],"Friday":["10:00 - 11:00","16:00 - 17:00","15:00 - 16:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc26","gender":"Female","specialty":"Cardiology","location":"Chennai","rating":"4.9","active":true,"availability":{"Monday":["8:00 - 9:00","16:00 - 17:00"],"Tuesday":["16:00 - 17:00"],"Wednesday":["13:00 - 14:00","10:00 - 11:00"],"Thursday":["15:00 - 16:00","17:00 - 18:00","12:00 - 13:00"],"Friday":["13:00 - 14:00","14:00 - 15:00","12:00 - 13:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc27","gender":"Male","specialty":"Cardiology","location":"Chennai","rating":"4.6","active":true,"availability":{"Monday":["14:00 - 15:00","13:00 - 14:00","10:00 - 11:00"],"Tuesday":["11:00 - 12:00","8:00 - 9:00","17:00 - 18:00"],"Wednesday":["11:00 - 12:00"],"Thursday":["15:00 - 16:00"],"Friday":["11:00 - 12:00","8:00 - 9:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc28","gender":"Male","specialty":"Dermatology","location":"Delhi","rating":"3.9","active":false,"availability":{"Monday":["10:00 - 11:00","14:00 - 15:00","12:00 - 13:00"],"Tuesday":["17:00 - 18:00"],"Wednesday":["17:00 - 18:00","16:00 - 17:00","8:00 - 9:00"],"Thursday":["15:00 - 16:00","10:00 - 11:00"],"Friday":["13:00 - 14:00","9:00 - 10:00","10:00 - 11:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc29","gender":"Male","specialty":"Ophthalmology","location":"Chennai","rating":"3.8","active":true,"availability":{"Monday":["17:00 - 18:00","17:00 - 18:00","10:00 - 11:00"],"Tuesday":["11:00 - 12:00","15:00 - 16:00","16:00 - 17:00"],"Wednesday":["11:00 - 12:00","13:00 - 14:00"],"Thursday":["14:00 - 15:00","13:00 - 14:00","17:00 - 18:00"],"Friday":["10:00 - 11:00","13:00 - 14:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc30","gender":"Male","specialty":"Dermatology","location":"Bangalore","rating":"4.5","active":true,"availability":{"Monday":["16:00 - 17:00"],"Tuesday":["11:00 - 12:00","10:00 - 11:00"],"Wednesday":["14:00 - 15:00","14:00 - 15:00"],"Thursday":["14:00 - 15:00","15:00 - 16:00"],"Friday":["17:00 - 18:00","12:00 - 13:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc31","gender":"Female","specialty":"Orthopedics","location":"Bangalore","rating":"4.6","active":true,"availability":{"Monday":["17:00 - 18:00"],"Tuesday":["17:00 - 18:00"],"Wednesday":["13:00 - 14:00"],"Thursday":["10:00 - 11:00"],"Friday":["10:00 - 11:00","11:00 - 12:00","17:00 - 18:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc32","gender":"Female","specialty":"Cardiology","location":"Bangalore","rating":"4.5","active":false,"availability":{"Monday":["13:00 - 14:00"],"Tuesday":["8:00 - 9:00","11:00 - 12:00","17:00 - 18:00"],"Wednesday":["8:00 - 9:00","9:00 - 10:00"],"Thursday":["10:00 - 11:00","14:00 - 15:00"],"Friday":["10:00 - 11:00","13:00 - 14:00","17:00 - 18:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc33","gender":"Male","specialty":"Ophthalmology","location":"Mumbai","rating":"3.7","active":true,"availability":{"Monday":["14:00 - 15:00"],"Tuesday":["11:00 - 12:00"],"Wednesday":["13:00 - 14:00"],"Thursday":["17:00 - 18:00","14:00 - 15:00","9:00 - 10:00"],"Friday":["13:00 - 14:00","12:00 - 13:00","11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc34","gender":"Male","specialty":"Pediatrics","location":"Bangalore","rating":"4.6","active":true,"availability":{"Monday":["16:00 - 17:00","17:00 - 18:00"],"Tuesday":["17:00 - 18:00","17:00 - 18:00","13:00 - 14:00"],"Wednesday":["9:00 - 10:00"],"Thursday":["8:00 - 9:00"],"Friday":["8:00 - 9:00","16:00 - 17:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc35","gender":"Male","specialty":"Cardiology","location":"Delhi","rating":"4.3","active":true,"availability":{"Monday":["10:00 - 11:00","8:00 - 9:00","11:00 - 12:00"],"Tuesday":["14:00 - 15:00","9:00 - 10:00","16:00 - 17:00"],"Wednesday":["17:00 - 18:00","8:00 - 9:00","17:00 - 18:00"],"Thursday":["17:00 - 18:00"],"Friday":["11:00 - 12:00","16:00 - 17:00","17:00 - 18:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc36","gender":"Male","specialty":"Orthopedics","location":"Mumbai","rating":"3.4","active":false,"availability":{"Monday":["12:00 - 13:00","14:00 - 15:00","14:00 - 15:00"],"Tuesday":["14:00 - 15:00"],"Wednesday":["16:00 - 17:00","14:00 - 15:00","12:00 - 13:00"],"Thursday":["9:00 - 10:00"],"Friday":["14:00 - 15:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc37","gender":"Female","specialty":"Ophthalmology","location":"Mumbai","rating":"3.4","active":true,"availability":{"Monday":["9:00 - 10:00","15:00 - 16:00","15:00 - 16:00"],"Tuesday":["11:00 - 12:00","17:00 - 18:00"],"Wednesday":["12:00 - 13:00","9:00 - 10:00","8:00 - 9:00"],"Thursday":["14:00 - 15:00","13:00 - 14:00"],"Friday":["14:00 - 15:00","17:00 - 18:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc38","gender":"Female","specialty":"Orthopedics","location":"Pune","rating":"4.7","active":true,"availability":{"Monday":["9:00 - 10:00","14:00 - 15:00","12:00 - 13:00"],"Tuesday":["10:00 - 11:00","11:00 - 12:00","16:00 - 17:00"],"Wednesday":["15:00 - 16:00"],"Thursday":["13:00 - 14:00","13:00 - 14:00"],"Friday":["13:00 - 14:00","10:00 - 11:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc39","gender":"Female","specialty":"Pediatrics","location":"Bangalore","rating":"3.2","active":true,"availability":{"Monday":["13:00 - 14:00","9:00 - 10:00"],"Tuesday":["8:00 - 9:00","16:00 - 17:00"],"Wednesday":["12:00 - 13:00","17:00 - 18:00"],"Thursday":["11:00 - 12:00"],"Friday":["17:00 - 18:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc40","gender":"Male","specialty":"Cardiology","location":"Pune","rating":"4.8","active":true,"availability":{"Monday":["14:00 - 15:00"],"Tuesday":["9:00 - 10:00","12:00 - 13:00","14:00 - 15:00"],"Wednesday":["10:00 - 11:00","9:00 - 10:00","12:00 - 13:00"],"Thursday":["9:00 - 10:00"],"Friday":["10:00 - 11:00","10:00 - 11:00","17:00 - 18:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc41","gender":"Female","specialty":"Pediatrics","location":"Pune","rating":"3.8","active":true,"availability":{"Monday":["16:00 - 17:00","9:00 - 10:00","11:00 - 12:00"],"Tuesday":["14:00 - 15:00"],"Wednesday":["9:00 - 10:00","11:00 - 12:00"],"Thursday":["11:00 - 12:00"],"Friday":["16:00 - 17:00","8:00 - 9:00","15:00 - 16:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc42","gender":"Male","specialty":"Ophthalmology","location":"Chennai","rating":"3.3","active":true,"availability":{"Monday":["8:00 - 9:00"],"Tuesday":["8:00 - 9:00","12:00 - 13:00","10:00 - 11:00"],"Wednesday":["12:00 - 13:00","14:00 - 15:00","9:00 - 10:00"],"Thursday":["17:00 - 18:00","10:00 - 11:00","11:00 - 12:00"],"Friday":["13:00 - 14:00","8:00 - 9:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc43","gender":"Male","specialty":"Ophthalmology","location":"Pune","rating":"3.6","active":true,"availability":{"Monday":["10:00 - 11:00","12:00 - 13:00"],"Tuesday":["12:00 - 13:00"],"Wednesday":["17:00 - 18:00","8:00 - 9:00","13:00 - 14:00"],"Thursday":["13:00 - 14:00"],"Friday":["10:00 - 11:00","14:00 - 15:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc44","gender":"Female","specialty":"Orthopedics","location":"Delhi","rating":"3.3","active":true,"availability":{"Monday":["16:00 - 17:00"],"Tuesday":["13:00 - 14:00","15:00 - 16:00","17:00 - 18:00"],"Wednesday":["15:00 - 16:00"],"Thursday":["13:00 - 14:00","16:00 - 17:00"],"Friday":["9:00 - 10:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc45","gender":"Female","specialty":"Orthopedics","location":"Pune","rating":"4.3","active":true,"availability":{"Monday":["11:00 - 12:00"],"Tuesday":["12:00 - 13:00"],"Wednesday":["16:00 - 17:00","11:00 - 12:00","12:00 - 13:00"],"Thursday":["15:00 - 16:00","13:00 - 14:00","16:00 - 17:00"],"Friday":["8:00 - 9:00","13:00 - 14:00","15:00 - 16:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc46","gender":"Male","specialty":"Dermatology","location":"Delhi","rating":"3.4","active":true,"availability":{"Monday":["11:00 - 12:00","13:00 - 14:00","13:00 - 14:00"],"Tuesday":["12:00 - 13:00"],"Wednesday":["16:00 - 17:00","11:00 - 12:00","11:00 - 12:00"],"Thursday":["8:00 - 9:00"],"Friday":["15:00 - 16:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc47","gender":"Female","specialty":"Cardiology","location":"Chennai","rating":"4.0","active":true,"availability":{"Monday":["10:00 - 11:00","17:00 - 18:00","10:00 - 11:00"],"Tuesday":["13:00 - 14:00"],"Wednesday":["17:00 - 18:00","11:00 - 12:00","9:00 - 10:00"],"Thursday":["16:00 - 17:00","8:00 - 9:00","15:00 - 16:00"],"Friday":["12:00 - 13:00","15:00 - 16:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc48","gender":"Female","specialty":"Orthopedics","location":"Mumbai","rating":"3.9","active":true,"availability":{"Monday":["11:00 - 12:00"],"Tuesday":["8:00 - 9:00","9:00 - 10:00","11:00 - 12:00"],"Wednesday":["11:00 - 12:00","9:00 - 10:00"],"Thursday":["15:00 - 16:00","9:00 - 10:00","14:00 - 15:00"],"Friday":["13:00 - 14:00","9:00 - 10:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc49","gender":"Female","specialty":"Ophthalmology","location":"Delhi","rating":"3.4","active":true,"availability":{"Monday":["8:00 - 9:00","12:00 - 13:00"],"Tuesday":["9:00 - 10:00"],"Wednesday":["9:00 - 10:00","14:00 - 15:00"],"Thursday":["10:00 - 11:00"],"Friday":["8:00 - 9:00","8:00 - 9:00","9:00 - 10:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc50","gender":"Female","specialty":"Orthopedics","location":"Mumbai","rating":"3.8","active":true,"availability":{"Monday":["12:00 - 13:00"],"Tuesday":["15:00 - 16:00","14:00 - 15:00","15:00 - 16:00"],"Wednesday":["12:00 - 13:00","9:00 - 10:00"],"Thursday":["17:00 - 18:00","10:00 - 11:00"],"Friday":["14:00 - 15:00","8:00 - 9:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc51","gender":"Male","specialty":"Orthopedics","location":"Delhi","rating":"4.1","active":true,"availability":{"Monday":["8:00 - 9:00"],"Tuesday":["11:00 - 12:00","8:00 - 9:00","13:00 - 14:00"],"Wednesday":["10:00 - 11:00","17:00 - 18:00","16:00 - 17:00"],"Thursday":["16:00 - 17:00","12:00 - 13:00"],"Friday":["14:00 - 15:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc52","gender":"Male","specialty":"Pediatrics","location":"Chennai","rating":"4.2","active":true,"availability":{"Monday":["8:00 - 9:00","16:00 - 17:00","9:00 - 10:00"],"Tuesday":["12:00 - 13:00","17:00 - 18:00"],"Wednesday":["12:00 - 13:00","14:00 - 15:00"],"Thursday":["12:00 - 13:00"],"Friday":["9:00 - 10:00","14:00 - 15:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc53","gender":"Female","specialty":"Pediatrics","location":"Chennai","rating":"4.3","active":true,"availability":{"Monday":["12:00 - 13:00","13:00 - 14:00"],"Tuesday":["16:00 - 17:00","17:00 - 18:00"],"Wednesday":["13:00 - 14:00","12:00 - 13:00","8:00 - 9:00"],"Thursday":["11:00 - 12:00","14:00 - 15:00"],"Friday":["9:00 - 10:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc54","gender":"Male","specialty":"Cardiology","location":"Pune","rating":"4.8","active":true,"availability":{"Monday":["17:00 - 18:00","11:00 - 12:00","8:00 - 9:00"],"Tuesday":["14:00 - 15:00"],"Wednesday":["17:00 - 18:00","11:00 - 12:00"],"Thursday":["17:00 - 18:00"],"Friday":["12:00 - 13:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc55","gender":"Male","specialty":"Pediatrics","location":"Chennai","rating":"4.8","active":true,"availability":{"Monday":["16:00 - 17:00"],"Tuesday":["11:00 - 12:00","17:00 - 18:00","17:00 - 18:00"],"Wednesday":["8:00 - 9:00","17:00 - 18:00","13:00 - 14:00"],"Thursday":["17:00 - 18:00","11:00 - 12:00"],"Friday":["12:00 - 13:00","10:00 - 11:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc56","gender":"Female","specialty":"Cardiology","location":"Pune","rating":"4.2","active":true,"availability":{"Monday":["16:00 - 17:00","14:00 - 15:00","10:00 - 11:00"],"Tuesday":["11:00 - 12:00"],"Wednesday":["12:00 - 13:00"],"Thursday":["12:00 - 13:00","11:00 - 12:00","11:00 - 12:00"],"Friday":["9:00 - 10:00","16:00 - 17:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc57","gender":"Male","specialty":"Orthopedics","location":"Chennai","rating":"4.6","active":true,"availability":{"Monday":["11:00 - 12:00"],"Tuesday":["9:00 - 10:00","8:00 - 9:00"],"Wednesday":["15:00 - 16:00"],"Thursday":["12:00 - 13:00","15:00 - 16:00"],"Friday":["10:00 - 11:00","8:00 - 9:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc58","gender":"Female","specialty":"Pediatrics","location":"Pune","rating":"4.8","active":true,"availability":{"Monday":["15:00 - 16:00","17:00 - 18:00","16:00 - 17:00"],"Tuesday":["15:00 - 16:00","9:00 - 10:00"],"Wednesday":["17:00 - 18:00"],"Thursday":["14:00 - 15:00"],"Friday":["17:00 - 18:00","16:00 - 17:00","17:00 - 18:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc59","gender":"Female","specialty":"Pediatrics","location":"Delhi","rating":"4.8","active":true,"availability":{"Monday":["17:00 - 18:00","16:00 - 17:00","12:00 - 13:00"],"Tuesday":["16:00 - 17:00","9:00 - 10:00"],"Wednesday":["15:00 - 16:00","9:00 - 10:00"],"Thursday":["13:00 - 14:00","11:00 - 12:00","10:00 - 11:00"],"Friday":["9:00 - 10:00","12:00 - 13:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc60","gender":"Female","specialty":"Orthopedics","location":"Chennai","rating":"5.0","active":true,"availability":{"Monday":["15:00 - 16:00","17:00 - 18:00","16:00 - 17:00"],"Tuesday":["12:00 - 13:00","16:00 - 17:00"],"Wednesday":["13:00 - 14:00","13:00 - 14:00","8:00 - 9:00"],"Thursday":["12:00 - 13:00","8:00 - 9:00"],"Friday":["13:00 - 14:00","13:00 - 14:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc61","gender":"Female","specialty":"Pediatrics","location":"Mumbai","rating":"4.8","active":true,"availability":{"Monday":["12:00 - 13:00","10:00 - 11:00"],"Tuesday":["11:00 - 12:00"],"Wednesday":["11:00 - 12:00","11:00 - 12:00"],"Thursday":["14:00 - 15:00"],"Friday":["15:00 - 16:00","8:00 - 9:00","13:00 - 14:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc62","gender":"Male","specialty":"Pediatrics","location":"Delhi","rating":"4.9","active":true,"availability":{"Monday":["13:00 - 14:00","14:00 - 15:00","10:00 - 11:00"],"Tuesday":["17:00 - 18:00","10:00 - 11:00"],"Wednesday":["8:00 - 9:00","16:00 - 17:00","14:00 - 15:00"],"Thursday":["8:00 - 9:00","14:00 - 15:00"],"Friday":["13:00 - 14:00","10:00 - 11:00","14:00 - 15:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc63","gender":"Female","specialty":"Dermatology","location":"Mumbai","rating":"3.7","active":true,"availability":{"Monday":["14:00 - 15:00","10:00 - 11:00","14:00 - 15:00"],"Tuesday":["12:00 - 13:00","10:00 - 11:00"],"Wednesday":["14:00 - 15:00"],"Thursday":["9:00 - 10:00"],"Friday":["15:00 - 16:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc64","gender":"Male","specialty":"Pediatrics","location":"Pune","rating":"4.6","active":true,"availability":{"Monday":["13:00 - 14:00","12:00 - 13:00"],"Tuesday":["11:00 - 12:00","10:00 - 11:00","17:00 - 18:00"],"Wednesday":["14:00 - 15:00","14:00 - 15:00","17:00 - 18:00"],"Thursday":["17:00 - 18:00"],"Friday":["13:00 - 14:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc65","gender":"Female","specialty":"Ophthalmology","location":"Bangalore","rating":"4.2","active":true,"availability":{"Monday":["15:00 - 16:00","10:00 - 11:00","15:00 - 16:00"],"Tuesday":["13:00 - 14:00"],"Wednesday":["16:00 - 17:00","10:00 - 11:00"],"Thursday":["9:00 - 10:00","9:00 - 10:00"],"Friday":["9:00 - 10:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc66","gender":"Male","specialty":"Pediatrics","location":"Mumbai","rating":"3.1","active":true,"availability":{"Monday":["11:00 - 12:00"],"Tuesday":["12:00 - 13:00","15:00 - 16:00","15:00 - 16:00"],"Wednesday":["14:00 - 15:00","8:00 - 9:00","14:00 - 15:00"],"Thursday":["11:00 - 12:00","9:00 - 10:00"],"Friday":["12:00 - 13:00","11:00 - 12:00","12:00 - 13:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc67","gender":"Male","specialty":"Cardiology","location":"Mumbai","rating":"4.0","active":true,"availability":{"Monday":["11:00 - 12:00"],"Tuesday":["13:00 - 14:00","10:00 - 11:00","10:00 - 11:00"],"Wednesday":["12:00 - 13:00"],"Thursday":["16:00 - 17:00"],"Friday":["10:00 - 11:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc68","gender":"Female","specialty":"Pediatrics","location":"Chennai","rating":"3.6","active":true,"availability":{"Monday":["8:00 - 9:00","8:00 - 9:00","9:00 - 10:00"],"Tuesday":["17:00 - 18:00"],"Wednesday":["11:00 - 12:00","9:00 - 10:00","16:00 - 17:00"],"Thursday":["8:00 - 9:00","15:00 - 16:00"],"Friday":["15:00 - 16:00","16:00 - 17:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc69","gender":"Male","specialty":"Dermatology","location":"Delhi","rating":"4.5","active":false,"availability":{"Monday":["8:00 - 9:00","17:00 - 18:00"],"Tuesday":["9:00 - 10:00","17:00 - 18:00","16:00 - 17:00"],"Wednesday":["8:00 - 9:00","16:00 - 17:00","17:00 - 18:00"],"Thursday":["17:00 - 18:00","11:00 - 12:00"],"Friday":["10:00 - 11:00","13:00 - 14:00","14:00 - 15:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc70","gender":"Female","specialty":"Pediatrics","location":"Bangalore","rating":"5.0","active":false,"availability":{"Monday":["8:00 - 9:00","8:00 - 9:00","14:00 - 15:00"],"Tuesday":["17:00 - 18:00","10:00 - 11:00","9:00 - 10:00"],"Wednesday":["11:00 - 12:00","12:00 - 13:00"],"Thursday":["16:00 - 17:00","14:00 - 15:00"],"Friday":["11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc71","gender":"Male","specialty":"Dermatology","location":"Pune","rating":"3.6","active":true,"availability":{"Monday":["11:00 - 12:00"],"Tuesday":["16:00 - 17:00"],"Wednesday":["12:00 - 13:00"],"Thursday":["11:00 - 12:00","14:00 - 15:00","14:00 - 15:00"],"Friday":["17:00 - 18:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc72","gender":"Female","specialty":"Ophthalmology","location":"Mumbai","rating":"4.2","active":true,"availability":{"Monday":["15:00 - 16:00","8:00 - 9:00"],"Tuesday":["9:00 - 10:00","10:00 - 11:00","13:00 - 14:00"],"Wednesday":["8:00 - 9:00","12:00 - 13:00"],"Thursday":["17:00 - 18:00"],"Friday":["10:00 - 11:00","17:00 - 18:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc73","gender":"Male","specialty":"Dermatology","location":"Delhi","rating":"4.3","active":true,"availability":{"Monday":["15:00 - 16:00"],"Tuesday":["11:00 - 12:00","16:00 - 17:00"],"Wednesday":["17:00 - 18:00","14:00 - 15:00"],"Thursday":["10:00 - 11:00","14:00 - 15:00","17:00 - 18:00"],"Friday":["11:00 - 12:00","16:00 - 17:00","17:00 - 18:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc74","gender":"Female","specialty":"Dermatology","location":"Bangalore","rating":"4.4","active":true,"availability":{"Monday":["12:00 - 13:00","12:00 - 13:00"],"Tuesday":["17:00 - 18:00","16:00 - 17:00"],"Wednesday":["14:00 - 15:00"],"Thursday":["10:00 - 11:00","17:00 - 18:00","14:00 - 15:00"],"Friday":["17:00 - 18:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc75","gender":"Female","specialty":"Orthopedics","location":"Bangalore","rating":"4.8","active":true,"availability":{"Monday":["8:00 - 9:00"],"Tuesday":["12:00 - 13:00"],"Wednesday":["15:00 - 16:00","16:00 - 17:00","11:00 - 12:00"],"Thursday":["9:00 - 10:00","16:00 - 17:00"],"Friday":["14:00 - 15:00","14:00 - 15:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc76","gender":"Female","specialty":"Orthopedics","location":"Pune","rating":"5.0","active":true,"availability":{"Monday":["8:00 - 9:00"],"Tuesday":["16:00 - 17:00","14:00 - 15:00","12:00 - 13:00"],"Wednesday":["9:00 - 10:00","8:00 - 9:00","10:00 - 11:00"],"Thursday":["16:00 - 17:00","13:00 - 14:00","17:00 - 18:00"],"Friday":["12:00 - 13:00","10:00 - 11:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc77","gender":"Male","specialty":"Pediatrics","location":"Mumbai","rating":"3.0","active":true,"availability":{"Monday":["10:00 - 11:00","10:00 - 11:00"],"Tuesday":["8:00 - 9:00","10:00 - 11:00"],"Wednesday":["10:00 - 11:00"],"Thursday":["13:00 - 14:00","10:00 - 11:00"],"Friday":["11:00 - 12:00","11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc78","gender":"Male","specialty":"Cardiology","location":"Pune","rating":"4.2","active":true,"availability":{"Monday":["13:00 - 14:00","15:00 - 16:00"],"Tuesday":["14:00 - 15:00"],"Wednesday":["10:00 - 11:00"],"Thursday":["11:00 - 12:00"],"Friday":["9:00 - 10:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc79","gender":"Male","specialty":"Ophthalmology","location":"Mumbai","rating":"4.7","active":true,"availability":{"Monday":["11:00 - 12:00","17:00 - 18:00","15:00 - 16:00"],"Tuesday":["10:00 - 11:00","10:00 - 11:00","17:00 - 18:00"],"Wednesday":["11:00 - 12:00","8:00 - 9:00"],"Thursday":["13:00 - 14:00","15:00 - 16:00","16:00 - 17:00"],"Friday":["14:00 - 15:00","16:00 - 17:00","9:00 - 10:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc80","gender":"Female","specialty":"Ophthalmology","location":"Delhi","rating":"4.9","active":true,"availability":{"Monday":["17:00 - 18:00","9:00 - 10:00"],"Tuesday":["12:00 - 13:00","11:00 - 12:00"],"Wednesday":["15:00 - 16:00","16:00 - 17:00","14:00 - 15:00"],"Thursday":["9:00 - 10:00","9:00 - 10:00","16:00 - 17:00"],"Friday":["12:00 - 13:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc81","gender":"Male","specialty":"Pediatrics","location":"Mumbai","rating":"3.3","active":true,"availability":{"Monday":["9:00 - 10:00","10:00 - 11:00"],"Tuesday":["8:00 - 9:00","8:00 - 9:00"],"Wednesday":["17:00 - 18:00","9:00 - 10:00"],"Thursday":["17:00 - 18:00","11:00 - 12:00"],"Friday":["11:00 - 12:00","16:00 - 17:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc82","gender":"Female","specialty":"Dermatology","location":"Bangalore","rating":"4.5","active":true,"availability":{"Monday":["11:00 - 12:00","12:00 - 13:00"],"Tuesday":["12:00 - 13:00","16:00 - 17:00","9:00 - 10:00"],"Wednesday":["13:00 - 14:00"],"Thursday":["15:00 - 16:00","15:00 - 16:00"],"Friday":["10:00 - 11:00","10:00 - 11:00","12:00 - 13:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc83","gender":"Female","specialty":"Orthopedics","location":"Mumbai","rating":"4.4","active":true,"availability":{"Monday":["13:00 - 14:00","14:00 - 15:00","9:00 - 10:00"],"Tuesday":["9:00 - 10:00","9:00 - 10:00","17:00 - 18:00"],"Wednesday":["8:00 - 9:00"],"Thursday":["11:00 - 12:00"],"Friday":["15:00 - 16:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc84","gender":"Female","specialty":"Dermatology","location":"Mumbai","rating":"4.3","active":false,"availability":{"Monday":["13:00 - 14:00","8:00 - 9:00"],"Tuesday":["8:00 - 9:00","15:00 - 16:00"],"Wednesday":["17:00 - 18:00","9:00 - 10:00"],"Thursday":["9:00 - 10:00","15:00 - 16:00"],"Friday":["9:00 - 10:00","11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc85","gender":"Female","specialty":"Dermatology","location":"Chennai","rating":"3.3","active":true,"availability":{"Monday":["11:00 - 12:00","15:00 - 16:00","16:00 - 17:00"],"Tuesday":["14:00 - 15:00","12:00 - 13:00"],"Wednesday":["12:00 - 13:00"],"Thursday":["9:00 - 10:00","15:00 - 16:00","10:00 - 11:00"],"Friday":["9:00 - 10:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc86","gender":"Female","specialty":"Orthopedics","location":"Delhi","rating":"3.5","active":true,"availability":{"Monday":["10:00 - 11:00","16:00 - 17:00"],"Tuesday":["11:00 - 12:00","10:00 - 11:00"],"Wednesday":["10:00 - 11:00","15:00 - 16:00","8:00 - 9:00"],"Thursday":["11:00 - 12:00","15:00 - 16:00","11:00 - 12:00"],"Friday":["13:00 - 14:00","16:00 - 17:00","10:00 - 11:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc87","gender":"Male","specialty":"Dermatology","location":"Pune","rating":"4.4","active":true,"availability":{"Monday":["17:00 - 18:00"],"Tuesday":["16:00 - 17:00","11:00 - 12:00","9:00 - 10:00"],"Wednesday":["9:00 - 10:00","12:00 - 13:00"],"Thursday":["15:00 - 16:00","8:00 - 9:00"],"Friday":["9:00 - 10:00","15:00 - 16:00","12:00 - 13:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc88","gender":"Male","specialty":"Dermatology","location":"Bangalore","rating":"3.8","active":true,"availability":{"Monday":["13:00 - 14:00"],"Tuesday":["9:00 - 10:00","8:00 - 9:00","14:00 - 15:00"],"Wednesday":["15:00 - 16:00","8:00 - 9:00"],"Thursday":["8:00 - 9:00","9:00 - 10:00","15:00 - 16:00"],"Friday":["15:00 - 16:00","10:00 - 11:00","14:00 - 15:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc89","gender":"Male","specialty":"Orthopedics","location":"Bangalore","rating":"4.1","active":true,"availability":{"Monday":["14:00 - 15:00","14:00 - 15:00","14:00 - 15:00"],"Tuesday":["8:00 - 9:00","11:00 - 12:00"],"Wednesday":["14:00 - 15:00","14:00 - 15:00"],"Thursday":["13:00 - 14:00"],"Friday":["12:00 - 13:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc90","gender":"Male","specialty":"Cardiology","location":"Pune","rating":"3.9","active":false,"availability":{"Monday":["16:00 - 17:00","11:00 - 12:00","9:00 - 10:00"],"Tuesday":["11:00 - 12:00"],"Wednesday":["14:00 - 15:00","16:00 - 17:00","13:00 - 14:00"],"Thursday":["12:00 - 13:00"],"Friday":["9:00 - 10:00","16:00 - 17:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc91","gender":"Male","specialty":"Ophthalmology","location":"Delhi","rating":"4.0","active":true,"availability":{"Monday":["13:00 - 14:00","16:00 - 17:00"],"Tuesday":["12:00 - 13:00","17:00 - 18:00","13:00 - 14:00"],"Wednesday":["17:00 - 18:00","16:00 - 17:00","12:00 - 13:00"],"Thursday":["9:00 - 10:00","8:00 - 9:00","9:00 - 10:00"],"Friday":["17:00 - 18:00","17:00 - 18:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc92","gender":"Male","specialty":"Ophthalmology","location":"Chennai","rating":"3.5","active":true,"availability":{"Monday":["15:00 - 16:00","14:00 - 15:00"],"Tuesday":["13:00 - 14:00"],"Wednesday":["10:00 - 11:00","13:00 - 14:00","8:00 - 9:00"],"Thursday":["10:00 - 11:00"],"Friday":["15:00 - 16:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc93","gender":"Female","specialty":"Ophthalmology","location":"Pune","rating":"3.3","active":true,"availability":{"Monday":["12:00 - 13:00","14:00 - 15:00","11:00 - 12:00"],"Tuesday":["15:00 - 16:00","17:00 - 18:00","8:00 - 9:00"],"Wednesday":["9:00 - 10:00","10:00 - 11:00"],"Thursday":["10:00 - 11:00"],"Friday":["9:00 - 10:00","15:00 - 16:00","15:00 - 16:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc94","gender":"Female","specialty":"Pediatrics","location":"Bangalore","rating":"3.2","active":true,"availability":{"Monday":["8:00 - 9:00","16:00 - 17:00"],"Tuesday":["17:00 - 18:00","17:00 - 18:00","12:00 - 13:00"],"Wednesday":["10:00 - 11:00","15:00 - 16:00","13:00 - 14:00"],"Thursday":["8:00 - 9:00","9:00 - 10:00"],"Friday":["16:00 - 17:00","11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc95","gender":"Female","specialty":"Dermatology","location":"Pune","rating":"4.0","active":true,"availability":{"Monday":["17:00 - 18:00","16:00 - 17:00","8:00 - 9:00"],"Tuesday":["14:00 - 15:00","16:00 - 17:00","8:00 - 9:00"],"Wednesday":["12:00 - 13:00","9:00 - 10:00","15:00 - 16:00"],"Thursday":["9:00 - 10:00","13:00 - 14:00"],"Friday":["15:00 - 16:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc96","gender":"Male","specialty":"Pediatrics","location":"Bangalore","rating":"4.5","active":true,"availability":{"Monday":["10:00 - 11:00","15:00 - 16:00","9:00 - 10:00"],"Tuesday":["8:00 - 9:00"],"Wednesday":["10:00 - 11:00"],"Thursday":["10:00 - 11:00","13:00 - 14:00","10:00 - 11:00"],"Friday":["12:00 - 13:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc97","gender":"Male","specialty":"Dermatology","location":"Bangalore","rating":"4.9","active":true,"availability":{"Monday":["11:00 - 12:00","12:00 - 13:00"],"Tuesday":["14:00 - 15:00"],"Wednesday":["16:00 - 17:00","9:00 - 10:00","11:00 - 12:00"],"Thursday":["10:00 - 11:00","8:00 - 9:00","15:00 - 16:00"],"Friday":["15:00 - 16:00","8:00 - 9:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc98","gender":"Female","specialty":"Orthopedics","location":"Delhi","rating":"4.7","active":true,"availability":{"Monday":["11:00 - 12:00"],"Tuesday":["8:00 - 9:00","10:00 - 11:00","14:00 - 15:00"],"Wednesday":["9:00 - 10:00","13:00 - 14:00","12:00 - 13:00"],"Thursday":["11:00 - 12:00","11:00 - 12:00","15:00 - 16:00"],"Friday":["15:00 - 16:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc99","gender":"Male","specialty":"Orthopedics","location":"Bangalore","rating":"3.8","active":false,"availability":{"Monday":["8:00 - 9:00","12:00 - 13:00","17:00 - 18:00"],"Tuesday":["10:00 - 11:00"],"Wednesday":["15:00 - 16:00","8:00 - 9:00"],"Thursday":["16:00 - 17:00","8:00 - 9:00"],"Friday":["8:00 - 9:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc100","gender":"Female","specialty":"Pediatrics","location":"Mumbai","rating":"3.3","active":true,"availability":{"Monday":["13:00 - 14:00","15:00 - 16:00"],"Tuesday":["16:00 - 17:00","10:00 - 11:00"],"Wednesday":["13:00 - 14:00"],"Thursday":["8:00 - 9:00"],"Friday":["16:00 - 17:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc101","gender":"Female","specialty":"Ophthalmology","location":"Chennai","rating":"4.4","active":true,"availability":{"Monday":["12:00 - 13:00","10:00 - 11:00"],"Tuesday":["8:00 - 9:00","9:00 - 10:00","8:00 - 9:00"],"Wednesday":["13:00 - 14:00","13:00 - 14:00","17:00 - 18:00"],"Thursday":["17:00 - 18:00","11:00 - 12:00"],"Friday":["13:00 - 14:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc102","gender":"Female","specialty":"Ophthalmology","location":"Delhi","rating":"4.7","active":true,"availability":{"Monday":["9:00 - 10:00","12:00 - 13:00"],"Tuesday":["8:00 - 9:00","16:00 - 17:00","16:00 - 17:00"],"Wednesday":["15:00 - 16:00","17:00 - 18:00"],"Thursday":["11:00 - 12:00","13:00 - 14:00"],"Friday":["8:00 - 9:00","17:00 - 18:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc103","gender":"Male","specialty":"Ophthalmology","location":"Chennai","rating":"4.5","active":true,"availability":{"Monday":["17:00 - 18:00"],"Tuesday":["17:00 - 18:00"],"Wednesday":["11:00 - 12:00","16:00 - 17:00"],"Thursday":["14:00 - 15:00","17:00 - 18:00"],"Friday":["14:00 - 15:00","8:00 - 9:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc104","gender":"Male","specialty":"Orthopedics","location":"Pune","rating":"4.3","active":true,"availability":{"Monday":["9:00 - 10:00"],"Tuesday":["17:00 - 18:00","11:00 - 12:00","12:00 - 13:00"],"Wednesday":["17:00 - 18:00","9:00 - 10:00"],"Thursday":["8:00 - 9:00","10:00 - 11:00","12:00 - 13:00"],"Friday":["8:00 - 9:00","13:00 - 14:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc105","gender":"Female","specialty":"Dermatology","location":"Chennai","rating":"4.2","active":true,"availability":{"Monday":["9:00 - 10:00","17:00 - 18:00"],"Tuesday":["9:00 - 10:00","16:00 - 17:00","16:00 - 17:00"],"Wednesday":["13:00 - 14:00","16:00 - 17:00"],"Thursday":["15:00 - 16:00","13:00 - 14:00"],"Friday":["8:00 - 9:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc106","gender":"Female","specialty":"Cardiology","location":"Chennai","rating":"3.7","active":true,"availability":{"Monday":["16:00 - 17:00","11:00 - 12:00"],"Tuesday":["9:00 - 10:00"],"Wednesday":["12:00 - 13:00","13:00 - 14:00"],"Thursday":["15:00 - 16:00","9:00 - 10:00","16:00 - 17:00"],"Friday":["16:00 - 17:00","10:00 - 11:00","17:00 - 18:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc107","gender":"Male","specialty":"Ophthalmology","location":"Mumbai","rating":"3.1","active":true,"availability":{"Monday":["11:00 - 12:00","12:00 - 13:00"],"Tuesday":["13:00 - 14:00","9:00 - 10:00","15:00 - 16:00"],"Wednesday":["17:00 - 18:00","15:00 - 16:00","11:00 - 12:00"],"Thursday":["16:00 - 17:00"],"Friday":["17:00 - 18:00","15:00 - 16:00","11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc108","gender":"Female","specialty":"Ophthalmology","location":"Pune","rating":"3.5","active":true,"availability":{"Monday":["17:00 - 18:00"],"Tuesday":["11:00 - 12:00","17:00 - 18:00","15:00 - 16:00"],"Wednesday":["13:00 - 14:00","13:00 - 14:00","16:00 - 17:00"],"Thursday":["8:00 - 9:00","15:00 - 16:00","14:00 - 15:00"],"Friday":["13:00 - 14:00","17:00 - 18:00","17:00 - 18:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc109","gender":"Male","specialty":"Cardiology","location":"Chennai","rating":"3.9","active":true,"availability":{"Monday":["16:00 - 17:00","16:00 - 17:00"],"Tuesday":["16:00 - 17:00","10:00 - 11:00","11:00 - 12:00"],"Wednesday":["10:00 - 11:00","9:00 - 10:00"],"Thursday":["17:00 - 18:00","14:00 - 15:00","9:00 - 10:00"],"Friday":["13:00 - 14:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc110","gender":"Female","specialty":"Dermatology","location":"Chennai","rating":"4.8","active":true,"availability":{"Monday":["17:00 - 18:00","14:00 - 15:00"],"Tuesday":["11:00 - 12:00","9:00 - 10:00","9:00 - 10:00"],"Wednesday":["15:00 - 16:00","8:00 - 9:00"],"Thursday":["16:00 - 17:00"],"Friday":["10:00 - 11:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc111","gender":"Male","specialty":"Orthopedics","location":"Mumbai","rating":"3.1","active":true,"availability":{"Monday":["8:00 - 9:00","8:00 - 9:00"],"Tuesday":["8:00 - 9:00","11:00 - 12:00"],"Wednesday":["14:00 - 15:00","10:00 - 11:00"],"Thursday":["16:00 - 17:00","16:00 - 17:00","12:00 - 13:00"],"Friday":["10:00 - 11:00","10:00 - 11:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc112","gender":"Female","specialty":"Orthopedics","location":"Delhi","rating":"4.9","active":true,"availability":{"Monday":["11:00 - 12:00"],"Tuesday":["11:00 - 12:00","12:00 - 13:00"],"Wednesday":["12:00 - 13:00"],"Thursday":["12:00 - 13:00","12:00 - 13:00"],"Friday":["12:00 - 13:00","10:00 - 11:00","14:00 - 15:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc113","gender":"Female","specialty":"Orthopedics","location":"Pune","rating":"4.2","active":true,"availability":{"Monday":["10:00 - 11:00"],"Tuesday":["12:00 - 13:00","15:00 - 16:00","15:00 - 16:00"],"Wednesday":["16:00 - 17:00","13:00 - 14:00"],"Thursday":["10:00 - 11:00","11:00 - 12:00"],"Friday":["10:00 - 11:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc114","gender":"Female","specialty":"Orthopedics","location":"Chennai","rating":"3.4","active":true,"availability":{"Monday":["15:00 - 16:00"],"Tuesday":["12:00 - 13:00","12:00 - 13:00"],"Wednesday":["17:00 - 18:00"],"Thursday":["12:00 - 13:00","14:00 - 15:00"],"Friday":["17:00 - 18:00","9:00 - 10:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc115","gender":"Male","specialty":"Ophthalmology","location":"Delhi","rating":"3.8","active":true,"availability":{"Monday":["17:00 - 18:00","12:00 - 13:00"],"Tuesday":["11:00 - 12:00","12:00 - 13:00"],"Wednesday":["11:00 - 12:00","8:00 - 9:00","15:00 - 16:00"],"Thursday":["14:00 - 15:00"],"Friday":["16:00 - 17:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc116","gender":"Female","specialty":"Orthopedics","location":"Pune","rating":"4.4","active":true,"availability":{"Monday":["12:00 - 13:00","15:00 - 16:00"],"Tuesday":["13:00 - 14:00","8:00 - 9:00","12:00 - 13:00"],"Wednesday":["13:00 - 14:00"],"Thursday":["14:00 - 15:00"],"Friday":["8:00 - 9:00","8:00 - 9:00","15:00 - 16:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc117","gender":"Female","specialty":"Dermatology","location":"Pune","rating":"4.9","active":true,"availability":{"Monday":["16:00 - 17:00","12:00 - 13:00"],"Tuesday":["13:00 - 14:00"],"Wednesday":["9:00 - 10:00"],"Thursday":["13:00 - 14:00","13:00 - 14:00"],"Friday":["17:00 - 18:00","17:00 - 18:00","11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc118","gender":"Male","specialty":"Orthopedics","location":"Chennai","rating":"4.0","active":true,"availability":{"Monday":["13:00 - 14:00","9:00 - 10:00","10:00 - 11:00"],"Tuesday":["16:00 - 17:00","8:00 - 9:00","13:00 - 14:00"],"Wednesday":["11:00 - 12:00"],"Thursday":["9:00 - 10:00"],"Friday":["15:00 - 16:00","13:00 - 14:00","13:00 - 14:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc119","gender":"Male","specialty":"Ophthalmology","location":"Pune","rating":"3.2","active":true,"availability":{"Monday":["15:00 - 16:00","8:00 - 9:00","12:00 - 13:00"],"Tuesday":["10:00 - 11:00"],"Wednesday":["17:00 - 18:00","8:00 - 9:00"],"Thursday":["10:00 - 11:00"],"Friday":["8:00 - 9:00","11:00 - 12:00","13:00 - 14:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc120","gender":"Male","specialty":"Dermatology","location":"Mumbai","rating":"4.7","active":true,"availability":{"Monday":["17:00 - 18:00","8:00 - 9:00"],"Tuesday":["16:00 - 17:00","10:00 - 11:00","17:00 - 18:00"],"Wednesday":["9:00 - 10:00","16:00 - 17:00","12:00 - 13:00"],"Thursday":["9:00 - 10:00","16:00 - 17:00","16:00 - 17:00"],"Friday":["11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc121","gender":"Female","specialty":"Orthopedics","location":"Mumbai","rating":"4.2","active":true,"availability":{"Monday":["13:00 - 14:00"],"Tuesday":["8:00 - 9:00","12:00 - 13:00"],"Wednesday":["15:00 - 16:00"],"Thursday":["13:00 - 14:00"],"Friday":["16:00 - 17:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc122","gender":"Female","specialty":"Pediatrics","location":"Bangalore","rating":"3.3","active":true,"availability":{"Monday":["10:00 - 11:00"],"Tuesday":["8:00 - 9:00"],"Wednesday":["16:00 - 17:00","8:00 - 9:00","11:00 - 12:00"],"Thursday":["15:00 - 16:00","15:00 - 16:00","13:00 - 14:00"],"Friday":["9:00 - 10:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc123","gender":"Male","specialty":"Dermatology","location":"Delhi","rating":"3.9","active":true,"availability":{"Monday":["13:00 - 14:00"],"Tuesday":["14:00 - 15:00","8:00 - 9:00"],"Wednesday":["12:00 - 13:00","15:00 - 16:00"],"Thursday":["13:00 - 14:00","17:00 - 18:00","11:00 - 12:00"],"Friday":["12:00 - 13:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc124","gender":"Female","specialty":"Pediatrics","location":"Pune","rating":"3.2","active":true,"availability":{"Monday":["17:00 - 18:00","11:00 - 12:00","13:00 - 14:00"],"Tuesday":["16:00 - 17:00"],"Wednesday":["14:00 - 15:00","9:00 - 10:00","9:00 - 10:00"],"Thursday":["12:00 - 13:00","17:00 - 18:00","17:00 - 18:00"],"Friday":["11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc125","gender":"Male","specialty":"Orthopedics","location":"Bangalore","rating":"4.9","active":true,"availability":{"Monday":["16:00 - 17:00","10:00 - 11:00","16:00 - 17:00"],"Tuesday":["17:00 - 18:00","15:00 - 16:00"],"Wednesday":["11:00 - 12:00","8:00 - 9:00"],"Thursday":["13:00 - 14:00","14:00 - 15:00","15:00 - 16:00"],"Friday":["15:00 - 16:00","8:00 - 9:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc126","gender":"Male","specialty":"Ophthalmology","location":"Delhi","rating":"3.3","active":true,"availability":{"Monday":["11:00 - 12:00"],"Tuesday":["12:00 - 13:00"],"Wednesday":["10:00 - 11:00"],"Thursday":["10:00 - 11:00"],"Friday":["15:00 - 16:00","15:00 - 16:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc127","gender":"Female","specialty":"Pediatrics","location":"Delhi","rating":"4.9","active":true,"availability":{"Monday":["17:00 - 18:00","11:00 - 12:00","13:00 - 14:00"],"Tuesday":["17:00 - 18:00","15:00 - 16:00","15:00 - 16:00"],"Wednesday":["12:00 - 13:00","17:00 - 18:00","15:00 - 16:00"],"Thursday":["15:00 - 16:00","12:00 - 13:00","13:00 - 14:00"],"Friday":["16:00 - 17:00","14:00 - 15:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc128","gender":"Male","specialty":"Cardiology","location":"Chennai","rating":"4.0","active":true,"availability":{"Monday":["8:00 - 9:00"],"Tuesday":["16:00 - 17:00","9:00 - 10:00"],"Wednesday":["14:00 - 15:00","13:00 - 14:00"],"Thursday":["17:00 - 18:00","11:00 - 12:00","16:00 - 17:00"],"Friday":["17:00 - 18:00","14:00 - 15:00","13:00 - 14:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc129","gender":"Male","specialty":"Pediatrics","location":"Pune","rating":"3.5","active":false,"availability":{"Monday":["8:00 - 9:00","9:00 - 10:00"],"Tuesday":["11:00 - 12:00"],"Wednesday":["11:00 - 12:00","12:00 - 13:00"],"Thursday":["12:00 - 13:00"],"Friday":["15:00 - 16:00","9:00 - 10:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc130","gender":"Female","specialty":"Dermatology","location":"Mumbai","rating":"3.3","active":true,"availability":{"Monday":["16:00 - 17:00","16:00 - 17:00","10:00 - 11:00"],"Tuesday":["8:00 - 9:00","16:00 - 17:00"],"Wednesday":["16:00 - 17:00","11:00 - 12:00"],"Thursday":["15:00 - 16:00","16:00 - 17:00","17:00 - 18:00"],"Friday":["15:00 - 16:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc131","gender":"Male","specialty":"Ophthalmology","location":"Bangalore","rating":"3.2","active":true,"availability":{"Monday":["9:00 - 10:00"],"Tuesday":["14:00 - 15:00","15:00 - 16:00","17:00 - 18:00"],"Wednesday":["11:00 - 12:00"],"Thursday":["10:00 - 11:00"],"Friday":["12:00 - 13:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc132","gender":"Female","specialty":"Ophthalmology","location":"Delhi","rating":"4.5","active":true,"availability":{"Monday":["12:00 - 13:00"],"Tuesday":["13:00 - 14:00","14:00 - 15:00","12:00 - 13:00"],"Wednesday":["16:00 - 17:00","8:00 - 9:00","11:00 - 12:00"],"Thursday":["12:00 - 13:00"],"Friday":["8:00 - 9:00","13:00 - 14:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc133","gender":"Male","specialty":"Ophthalmology","location":"Chennai","rating":"4.6","active":true,"availability":{"Monday":["8:00 - 9:00","13:00 - 14:00"],"Tuesday":["16:00 - 17:00","11:00 - 12:00"],"Wednesday":["16:00 - 17:00","9:00 - 10:00"],"Thursday":["13:00 - 14:00"],"Friday":["8:00 - 9:00","9:00 - 10:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc134","gender":"Male","specialty":"Dermatology","location":"Chennai","rating":"3.0","active":true,"availability":{"Monday":["10:00 - 11:00","15:00 - 16:00"],"Tuesday":["15:00 - 16:00"],"Wednesday":["12:00 - 13:00","16:00 - 17:00"],"Thursday":["10:00 - 11:00","16:00 - 17:00"],"Friday":["9:00 - 10:00","8:00 - 9:00","11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc135","gender":"Male","specialty":"Pediatrics","location":"Bangalore","rating":"4.8","active":true,"availability":{"Monday":["12:00 - 13:00"],"Tuesday":["13:00 - 14:00","15:00 - 16:00","15:00 - 16:00"],"Wednesday":["16:00 - 17:00","9:00 - 10:00"],"Thursday":["15:00 - 16:00","12:00 - 13:00","17:00 - 18:00"],"Friday":["14:00 - 15:00","16:00 - 17:00","16:00 - 17:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc136","gender":"Female","specialty":"Orthopedics","location":"Delhi","rating":"4.0","active":true,"availability":{"Monday":["8:00 - 9:00","8:00 - 9:00"],"Tuesday":["9:00 - 10:00","13:00 - 14:00"],"Wednesday":["15:00 - 16:00","17:00 - 18:00"],"Thursday":["14:00 - 15:00","16:00 - 17:00","16:00 - 17:00"],"Friday":["12:00 - 13:00","16:00 - 17:00","11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc137","gender":"Male","specialty":"Ophthalmology","location":"Bangalore","rating":"3.8","active":true,"availability":{"Monday":["15:00 - 16:00","10:00 - 11:00","12:00 - 13:00"],"Tuesday":["17:00 - 18:00"],"Wednesday":["14:00 - 15:00","10:00 - 11:00"],"Thursday":["11:00 - 12:00"],"Friday":["10:00 - 11:00","17:00 - 18:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc138","gender":"Female","specialty":"Ophthalmology","location":"Bangalore","rating":"3.9","active":true,"availability":{"Monday":["17:00 - 18:00","13:00 - 14:00"],"Tuesday":["16:00 - 17:00","14:00 - 15:00"],"Wednesday":["9:00 - 10:00","15:00 - 16:00"],"Thursday":["12:00 - 13:00"],"Friday":["11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc139","gender":"Male","specialty":"Orthopedics","location":"Chennai","rating":"4.6","active":true,"availability":{"Monday":["14:00 - 15:00","15:00 - 16:00","13:00 - 14:00"],"Tuesday":["11:00 - 12:00","16:00 - 17:00"],"Wednesday":["16:00 - 17:00","10:00 - 11:00","16:00 - 17:00"],"Thursday":["17:00 - 18:00","15:00 - 16:00","10:00 - 11:00"],"Friday":["14:00 - 15:00","8:00 - 9:00","16:00 - 17:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc140","gender":"Female","specialty":"Ophthalmology","location":"Bangalore","rating":"4.9","active":true,"availability":{"Monday":["15:00 - 16:00"],"Tuesday":["10:00 - 11:00"],"Wednesday":["16:00 - 17:00","12:00 - 13:00","11:00 - 12:00"],"Thursday":["10:00 - 11:00","9:00 - 10:00"],"Friday":["10:00 - 11:00","8:00 - 9:00","12:00 - 13:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc141","gender":"Female","specialty":"Orthopedics","location":"Mumbai","rating":"3.4","active":true,"availability":{"Monday":["15:00 - 16:00"],"Tuesday":["8:00 - 9:00"],"Wednesday":["16:00 - 17:00","10:00 - 11:00","12:00 - 13:00"],"Thursday":["12:00 - 13:00"],"Friday":["8:00 - 9:00","17:00 - 18:00","11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc142","gender":"Male","specialty":"Dermatology","location":"Pune","rating":"4.5","active":true,"availability":{"Monday":["12:00 - 13:00"],"Tuesday":["12:00 - 13:00"],"Wednesday":["10:00 - 11:00","10:00 - 11:00"],"Thursday":["14:00 - 15:00","14:00 - 15:00","10:00 - 11:00"],"Friday":["13:00 - 14:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc143","gender":"Female","specialty":"Orthopedics","location":"Mumbai","rating":"3.5","active":true,"availability":{"Monday":["9:00 - 10:00","14:00 - 15:00","12:00 - 13:00"],"Tuesday":["13:00 - 14:00","14:00 - 15:00","10:00 - 11:00"],"Wednesday":["15:00 - 16:00","9:00 - 10:00"],"Thursday":["16:00 - 17:00","17:00 - 18:00","15:00 - 16:00"],"Friday":["13:00 - 14:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc144","gender":"Male","specialty":"Cardiology","location":"Pune","rating":"4.9","active":false,"availability":{"Monday":["10:00 - 11:00","10:00 - 11:00"],"Tuesday":["14:00 - 15:00","14:00 - 15:00"],"Wednesday":["10:00 - 11:00","15:00 - 16:00"],"Thursday":["17:00 - 18:00"],"Friday":["10:00 - 11:00","11:00 - 12:00","14:00 - 15:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc145","gender":"Male","specialty":"Ophthalmology","location":"Chennai","rating":"3.1","active":true,"availability":{"Monday":["14:00 - 15:00","9:00 - 10:00","16:00 - 17:00"],"Tuesday":["9:00 - 10:00","11:00 - 12:00"],"Wednesday":["14:00 - 15:00","8:00 - 9:00"],"Thursday":["16:00 - 17:00","15:00 - 16:00","15:00 - 16:00"],"Friday":["16:00 - 17:00","14:00 - 15:00","9:00 - 10:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc146","gender":"Female","specialty":"Cardiology","location":"Chennai","rating":"4.0","active":true,"availability":{"Monday":["8:00 - 9:00","13:00 - 14:00","10:00 - 11:00"],"Tuesday":["9:00 - 10:00"],"Wednesday":["14:00 - 15:00","8:00 - 9:00","14:00 - 15:00"],"Thursday":["8:00 - 9:00","10:00 - 11:00","11:00 - 12:00"],"Friday":["14:00 - 15:00","8:00 - 9:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc147","gender":"Female","specialty":"Cardiology","location":"Bangalore","rating":"4.4","active":true,"availability":{"Monday":["12:00 - 13:00"],"Tuesday":["17:00 - 18:00","17:00 - 18:00"],"Wednesday":["15:00 - 16:00","9:00 - 10:00"],"Thursday":["10:00 - 11:00"],"Friday":["13:00 - 14:00","17:00 - 18:00","11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc148","gender":"Male","specialty":"Orthopedics","location":"Pune","rating":"3.4","active":true,"availability":{"Monday":["10:00 - 11:00","12:00 - 13:00","9:00 - 10:00"],"Tuesday":["16:00 - 17:00","12:00 - 13:00"],"Wednesday":["13:00 - 14:00"],"Thursday":["13:00 - 14:00","13:00 - 14:00","12:00 - 13:00"],"Friday":["14:00 - 15:00","9:00 - 10:00","16:00 - 17:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc149","gender":"Male","specialty":"Cardiology","location":"Mumbai","rating":"4.9","active":true,"availability":{"Monday":["10:00 - 11:00","8:00 - 9:00","8:00 - 9:00"],"Tuesday":["17:00 - 18:00","13:00 - 14:00","17:00 - 18:00"],"Wednesday":["10:00 - 11:00"],"Thursday":["16:00 - 17:00"],"Friday":["14:00 - 15:00","13:00 - 14:00","11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc150","gender":"Female","specialty":"Dermatology","location":"Mumbai","rating":"3.0","active":true,"availability":{"Monday":["17:00 - 18:00"],"Tuesday":["13:00 - 14:00","12:00 - 13:00"],"Wednesday":["10:00 - 11:00","12:00 - 13:00","15:00 - 16:00"],"Thursday":["14:00 - 15:00","11:00 - 12:00","9:00 - 10:00"],"Friday":["11:00 - 12:00","11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc151","gender":"Male","specialty":"Pediatrics","location":"Chennai","rating":"4.8","active":false,"availability":{"Monday":["8:00 - 9:00","8:00 - 9:00"],"Tuesday":["17:00 - 18:00"],"Wednesday":["17:00 - 18:00"],"Thursday":["10:00 - 11:00"],"Friday":["11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc152","gender":"Female","specialty":"Dermatology","location":"Bangalore","rating":"4.4","active":true,"availability":{"Monday":["9:00 - 10:00"],"Tuesday":["16:00 - 17:00"],"Wednesday":["15:00 - 16:00","16:00 - 17:00"],"Thursday":["15:00 - 16:00"],"Friday":["9:00 - 10:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc153","gender":"Female","specialty":"Dermatology","location":"Pune","rating":"4.4","active":true,"availability":{"Monday":["13:00 - 14:00","13:00 - 14:00","9:00 - 10:00"],"Tuesday":["12:00 - 13:00"],"Wednesday":["17:00 - 18:00","10:00 - 11:00"],"Thursday":["11:00 - 12:00"],"Friday":["10:00 - 11:00","16:00 - 17:00","14:00 - 15:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc154","gender":"Female","specialty":"Cardiology","location":"Chennai","rating":"4.7","active":true,"availability":{"Monday":["13:00 - 14:00"],"Tuesday":["10:00 - 11:00","10:00 - 11:00"],"Wednesday":["10:00 - 11:00","10:00 - 11:00"],"Thursday":["11:00 - 12:00"],"Friday":["11:00 - 12:00","11:00 - 12:00","17:00 - 18:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc155","gender":"Male","specialty":"Orthopedics","location":"Pune","rating":"5.0","active":true,"availability":{"Monday":["12:00 - 13:00","17:00 - 18:00","15:00 - 16:00"],"Tuesday":["16:00 - 17:00","8:00 - 9:00","11:00 - 12:00"],"Wednesday":["14:00 - 15:00"],"Thursday":["10:00 - 11:00","15:00 - 16:00","12:00 - 13:00"],"Friday":["8:00 - 9:00","16:00 - 17:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc156","gender":"Female","specialty":"Cardiology","location":"Mumbai","rating":"4.5","active":true,"availability":{"Monday":["11:00 - 12:00"],"Tuesday":["13:00 - 14:00","10:00 - 11:00"],"Wednesday":["8:00 - 9:00"],"Thursday":["12:00 - 13:00","8:00 - 9:00"],"Friday":["13:00 - 14:00","11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc157","gender":"Male","specialty":"Ophthalmology","location":"Pune","rating":"4.2","active":true,"availability":{"Monday":["13:00 - 14:00"],"Tuesday":["14:00 - 15:00","8:00 - 9:00","16:00 - 17:00"],"Wednesday":["12:00 - 13:00","12:00 - 13:00","8:00 - 9:00"],"Thursday":["13:00 - 14:00"],"Friday":["10:00 - 11:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc158","gender":"Female","specialty":"Dermatology","location":"Mumbai","rating":"4.1","active":true,"availability":{"Monday":["10:00 - 11:00","11:00 - 12:00"],"Tuesday":["10:00 - 11:00"],"Wednesday":["17:00 - 18:00","15:00 - 16:00","17:00 - 18:00"],"Thursday":["15:00 - 16:00","14:00 - 15:00"],"Friday":["8:00 - 9:00","9:00 - 10:00","9:00 - 10:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc159","gender":"Female","specialty":"Dermatology","location":"Chennai","rating":"3.4","active":true,"availability":{"Monday":["11:00 - 12:00"],"Tuesday":["11:00 - 12:00","8:00 - 9:00"],"Wednesday":["8:00 - 9:00","15:00 - 16:00"],"Thursday":["17:00 - 18:00"],"Friday":["15:00 - 16:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc160","gender":"Male","specialty":"Dermatology","location":"Delhi","rating":"3.7","active":true,"availability":{"Monday":["15:00 - 16:00","11:00 - 12:00"],"Tuesday":["13:00 - 14:00"],"Wednesday":["8:00 - 9:00","9:00 - 10:00"],"Thursday":["16:00 - 17:00"],"Friday":["12:00 - 13:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc161","gender":"Female","specialty":"Dermatology","location":"Bangalore","rating":"4.5","active":true,"availability":{"Monday":["8:00 - 9:00","13:00 - 14:00","15:00 - 16:00"],"Tuesday":["11:00 - 12:00"],"Wednesday":["11:00 - 12:00"],"Thursday":["8:00 - 9:00","15:00 - 16:00"],"Friday":["15:00 - 16:00","11:00 - 12:00","17:00 - 18:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc162","gender":"Male","specialty":"Cardiology","location":"Delhi","rating":"4.3","active":true,"availability":{"Monday":["13:00 - 14:00","8:00 - 9:00","12:00 - 13:00"],"Tuesday":["12:00 - 13:00"],"Wednesday":["8:00 - 9:00","13:00 - 14:00","14:00 - 15:00"],"Thursday":["14:00 - 15:00"],"Friday":["11:00 - 12:00","11:00 - 12:00","11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc163","gender":"Female","specialty":"Dermatology","location":"Pune","rating":"4.9","active":true,"availability":{"Monday":["12:00 - 13:00"],"Tuesday":["10:00 - 11:00","13:00 - 14:00"],"Wednesday":["11:00 - 12:00","10:00 - 11:00"],"Thursday":["8:00 - 9:00","10:00 - 11:00"],"Friday":["15:00 - 16:00","12:00 - 13:00","12:00 - 13:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc164","gender":"Female","specialty":"Pediatrics","location":"Pune","rating":"4.8","active":true,"availability":{"Monday":["14:00 - 15:00","17:00 - 18:00","15:00 - 16:00"],"Tuesday":["8:00 - 9:00"],"Wednesday":["15:00 - 16:00","14:00 - 15:00","11:00 - 12:00"],"Thursday":["12:00 - 13:00"],"Friday":["8:00 - 9:00","17:00 - 18:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc165","gender":"Male","specialty":"Ophthalmology","location":"Mumbai","rating":"4.3","active":true,"availability":{"Monday":["8:00 - 9:00"],"Tuesday":["9:00 - 10:00","9:00 - 10:00"],"Wednesday":["15:00 - 16:00"],"Thursday":["17:00 - 18:00","16:00 - 17:00"],"Friday":["12:00 - 13:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc166","gender":"Male","specialty":"Pediatrics","location":"Bangalore","rating":"3.4","active":false,"availability":{"Monday":["14:00 - 15:00","8:00 - 9:00","17:00 - 18:00"],"Tuesday":["12:00 - 13:00","16:00 - 17:00"],"Wednesday":["13:00 - 14:00","16:00 - 17:00","9:00 - 10:00"],"Thursday":["9:00 - 10:00","8:00 - 9:00"],"Friday":["9:00 - 10:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc167","gender":"Female","specialty":"Pediatrics","location":"Bangalore","rating":"3.6","active":true,"availability":{"Monday":["15:00 - 16:00"],"Tuesday":["11:00 - 12:00"],"Wednesday":["15:00 - 16:00"],"Thursday":["11:00 - 12:00","15:00 - 16:00"],"Friday":["15:00 - 16:00","13:00 - 14:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc168","gender":"Male","specialty":"Cardiology","location":"Mumbai","rating":"3.0","active":true,"availability":{"Monday":["16:00 - 17:00"],"Tuesday":["14:00 - 15:00","9:00 - 10:00","16:00 - 17:00"],"Wednesday":["11:00 - 12:00","8:00 - 9:00"],"Thursday":["9:00 - 10:00","14:00 - 15:00","16:00 - 17:00"],"Friday":["11:00 - 12:00","17:00 - 18:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc169","gender":"Male","specialty":"Dermatology","location":"Pune","rating":"5.0","active":true,"availability":{"Monday":["9:00 - 10:00","14:00 - 15:00"],"Tuesday":["11:00 - 12:00","10:00 - 11:00"],"Wednesday":["12:00 - 13:00","14:00 - 15:00","8:00 - 9:00"],"Thursday":["11:00 - 12:00","8:00 - 9:00","10:00 - 11:00"],"Friday":["13:00 - 14:00","13:00 - 14:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc170","gender":"Male","specialty":"Pediatrics","location":"Delhi","rating":"3.8","active":false,"availability":{"Monday":["10:00 - 11:00","12:00 - 13:00","12:00 - 13:00"],"Tuesday":["14:00 - 15:00"],"Wednesday":["13:00 - 14:00"],"Thursday":["16:00 - 17:00","10:00 - 11:00","16:00 - 17:00"],"Friday":["15:00 - 16:00","12:00 - 13:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc171","gender":"Male","specialty":"Cardiology","location":"Delhi","rating":"3.8","active":true,"availability":{"Monday":["10:00 - 11:00"],"Tuesday":["9:00 - 10:00","15:00 - 16:00","10:00 - 11:00"],"Wednesday":["15:00 - 16:00","11:00 - 12:00"],"Thursday":["12:00 - 13:00","11:00 - 12:00"],"Friday":["15:00 - 16:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc172","gender":"Female","specialty":"Ophthalmology","location":"Bangalore","rating":"3.2","active":true,"availability":{"Monday":["15:00 - 16:00"],"Tuesday":["12:00 - 13:00","8:00 - 9:00","16:00 - 17:00"],"Wednesday":["15:00 - 16:00"],"Thursday":["16:00 - 17:00","16:00 - 17:00","11:00 - 12:00"],"Friday":["15:00 - 16:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc173","gender":"Male","specialty":"Orthopedics","location":"Pune","rating":"4.5","active":true,"availability":{"Monday":["9:00 - 10:00"],"Tuesday":["10:00 - 11:00","14:00 - 15:00","11:00 - 12:00"],"Wednesday":["10:00 - 11:00","17:00 - 18:00"],"Thursday":["8:00 - 9:00","12:00 - 13:00"],"Friday":["15:00 - 16:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc174","gender":"Male","specialty":"Orthopedics","location":"Delhi","rating":"4.1","active":true,"availability":{"Monday":["9:00 - 10:00"],"Tuesday":["14:00 - 15:00"],"Wednesday":["8:00 - 9:00","12:00 - 13:00"],"Thursday":["14:00 - 15:00"],"Friday":["10:00 - 11:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc175","gender":"Male","specialty":"Dermatology","location":"Delhi","rating":"4.7","active":true,"availability":{"Monday":["12:00 - 13:00"],"Tuesday":["14:00 - 15:00","10:00 - 11:00"],"Wednesday":["9:00 - 10:00","16:00 - 17:00","12:00 - 13:00"],"Thursday":["17:00 - 18:00","8:00 - 9:00"],"Friday":["14:00 - 15:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc176","gender":"Male","specialty":"Dermatology","location":"Pune","rating":"4.6","active":true,"availability":{"Monday":["11:00 - 12:00"],"Tuesday":["17:00 - 18:00"],"Wednesday":["14:00 - 15:00","10:00 - 11:00","10:00 - 11:00"],"Thursday":["8:00 - 9:00","15:00 - 16:00","8:00 - 9:00"],"Friday":["12:00 - 13:00","16:00 - 17:00","11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc177","gender":"Female","specialty":"Cardiology","location":"Mumbai","rating":"4.0","active":true,"availability":{"Monday":["14:00 - 15:00"],"Tuesday":["15:00 - 16:00"],"Wednesday":["11:00 - 12:00"],"Thursday":["9:00 - 10:00","14:00 - 15:00"],"Friday":["12:00 - 13:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc178","gender":"Male","specialty":"Dermatology","location":"Bangalore","rating":"4.0","active":true,"availability":{"Monday":["15:00 - 16:00","8:00 - 9:00","14:00 - 15:00"],"Tuesday":["17:00 - 18:00"],"Wednesday":["17:00 - 18:00","11:00 - 12:00","17:00 - 18:00"],"Thursday":["10:00 - 11:00"],"Friday":["11:00 - 12:00","17:00 - 18:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc179","gender":"Female","specialty":"Dermatology","location":"Delhi","rating":"3.7","active":true,"availability":{"Monday":["17:00 - 18:00","16:00 - 17:00"],"Tuesday":["14:00 - 15:00","16:00 - 17:00"],"Wednesday":["17:00 - 18:00"],"Thursday":["16:00 - 17:00","11:00 - 12:00"],"Friday":["14:00 - 15:00","13:00 - 14:00","13:00 - 14:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc180","gender":"Female","specialty":"Orthopedics","location":"Delhi","rating":"4.0","active":true,"availability":{"Monday":["10:00 - 11:00","8:00 - 9:00","11:00 - 12:00"],"Tuesday":["10:00 - 11:00","11:00 - 12:00","17:00 - 18:00"],"Wednesday":["10:00 - 11:00","12:00 - 13:00"],"Thursday":["13:00 - 14:00","16:00 - 17:00","16:00 - 17:00"],"Friday":["14:00 - 15:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc181","gender":"Female","specialty":"Dermatology","location":"Mumbai","rating":"3.1","active":true,"availability":{"Monday":["17:00 - 18:00"],"Tuesday":["14:00 - 15:00","8:00 - 9:00","8:00 - 9:00"],"Wednesday":["15:00 - 16:00","13:00 - 14:00"],"Thursday":["8:00 - 9:00","17:00 - 18:00"],"Friday":["13:00 - 14:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc182","gender":"Male","specialty":"Orthopedics","location":"Chennai","rating":"4.0","active":true,"availability":{"Monday":["12:00 - 13:00","12:00 - 13:00","10:00 - 11:00"],"Tuesday":["11:00 - 12:00","8:00 - 9:00"],"Wednesday":["12:00 - 13:00","16:00 - 17:00"],"Thursday":["12:00 - 13:00"],"Friday":["17:00 - 18:00","15:00 - 16:00","8:00 - 9:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc183","gender":"Female","specialty":"Ophthalmology","location":"Chennai","rating":"4.6","active":true,"availability":{"Monday":["8:00 - 9:00"],"Tuesday":["9:00 - 10:00","8:00 - 9:00"],"Wednesday":["11:00 - 12:00","9:00 - 10:00"],"Thursday":["15:00 - 16:00","15:00 - 16:00","16:00 - 17:00"],"Friday":["14:00 - 15:00","8:00 - 9:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc184","gender":"Male","specialty":"Dermatology","location":"Pune","rating":"3.1","active":true,"availability":{"Monday":["14:00 - 15:00","13:00 - 14:00"],"Tuesday":["14:00 - 15:00"],"Wednesday":["13:00 - 14:00","9:00 - 10:00","15:00 - 16:00"],"Thursday":["12:00 - 13:00"],"Friday":["17:00 - 18:00","15:00 - 16:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc185","gender":"Female","specialty":"Cardiology","location":"Bangalore","rating":"3.6","active":true,"availability":{"Monday":["17:00 - 18:00"],"Tuesday":["10:00 - 11:00","17:00 - 18:00"],"Wednesday":["15:00 - 16:00","17:00 - 18:00"],"Thursday":["13:00 - 14:00"],"Friday":["14:00 - 15:00","10:00 - 11:00","10:00 - 11:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc186","gender":"Female","specialty":"Orthopedics","location":"Delhi","rating":"4.2","active":true,"availability":{"Monday":["8:00 - 9:00","8:00 - 9:00","10:00 - 11:00"],"Tuesday":["17:00 - 18:00"],"Wednesday":["10:00 - 11:00"],"Thursday":["13:00 - 14:00","11:00 - 12:00"],"Friday":["15:00 - 16:00","17:00 - 18:00","11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc187","gender":"Male","specialty":"Cardiology","location":"Pune","rating":"4.1","active":true,"availability":{"Monday":["9:00 - 10:00"],"Tuesday":["16:00 - 17:00","14:00 - 15:00","10:00 - 11:00"],"Wednesday":["9:00 - 10:00"],"Thursday":["15:00 - 16:00"],"Friday":["13:00 - 14:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc188","gender":"Male","specialty":"Cardiology","location":"Mumbai","rating":"3.3","active":true,"availability":{"Monday":["14:00 - 15:00","14:00 - 15:00","16:00 - 17:00"],"Tuesday":["11:00 - 12:00","14:00 - 15:00"],"Wednesday":["13:00 - 14:00","8:00 - 9:00","14:00 - 15:00"],"Thursday":["9:00 - 10:00","8:00 - 9:00","14:00 - 15:00"],"Friday":["17:00 - 18:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc189","gender":"Female","specialty":"Dermatology","location":"Mumbai","rating":"4.1","active":true,"availability":{"Monday":["8:00 - 9:00","14:00 - 15:00"],"Tuesday":["9:00 - 10:00","14:00 - 15:00","11:00 - 12:00"],"Wednesday":["11:00 - 12:00"],"Thursday":["9:00 - 10:00","8:00 - 9:00","16:00 - 17:00"],"Friday":["11:00 - 12:00","9:00 - 10:00","14:00 - 15:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc190","gender":"Male","specialty":"Cardiology","location":"Chennai","rating":"3.9","active":true,"availability":{"Monday":["8:00 - 9:00"],"Tuesday":["11:00 - 12:00"],"Wednesday":["17:00 - 18:00","10:00 - 11:00","15:00 - 16:00"],"Thursday":["12:00 - 13:00","15:00 - 16:00","17:00 - 18:00"],"Friday":["9:00 - 10:00","9:00 - 10:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc191","gender":"Male","specialty":"Orthopedics","location":"Mumbai","rating":"4.4","active":true,"availability":{"Monday":["8:00 - 9:00","14:00 - 15:00","12:00 - 13:00"],"Tuesday":["17:00 - 18:00","15:00 - 16:00","15:00 - 16:00"],"Wednesday":["14:00 - 15:00"],"Thursday":["10:00 - 11:00","8:00 - 9:00"],"Friday":["11:00 - 12:00","11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc192","gender":"Male","specialty":"Ophthalmology","location":"Pune","rating":"3.5","active":true,"availability":{"Monday":["12:00 - 13:00","14:00 - 15:00"],"Tuesday":["13:00 - 14:00","15:00 - 16:00","16:00 - 17:00"],"Wednesday":["15:00 - 16:00"],"Thursday":["9:00 - 10:00"],"Friday":["17:00 - 18:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc193","gender":"Female","specialty":"Pediatrics","location":"Bangalore","rating":"3.9","active":true,"availability":{"Monday":["10:00 - 11:00","9:00 - 10:00"],"Tuesday":["17:00 - 18:00","15:00 - 16:00","17:00 - 18:00"],"Wednesday":["15:00 - 16:00","17:00 - 18:00","17:00 - 18:00"],"Thursday":["16:00 - 17:00"],"Friday":["10:00 - 11:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc194","gender":"Male","specialty":"Orthopedics","location":"Delhi","rating":"4.2","active":true,"availability":{"Monday":["11:00 - 12:00"],"Tuesday":["16:00 - 17:00","16:00 - 17:00","15:00 - 16:00"],"Wednesday":["15:00 - 16:00"],"Thursday":["17:00 - 18:00","13:00 - 14:00"],"Friday":["9:00 - 10:00","8:00 - 9:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc195","gender":"Female","specialty":"Pediatrics","location":"Mumbai","rating":"3.2","active":true,"availability":{"Monday":["9:00 - 10:00"],"Tuesday":["16:00 - 17:00"],"Wednesday":["11:00 - 12:00","9:00 - 10:00","9:00 - 10:00"],"Thursday":["15:00 - 16:00","9:00 - 10:00"],"Friday":["15:00 - 16:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc196","gender":"Male","specialty":"Ophthalmology","location":"Pune","rating":"3.8","active":true,"availability":{"Monday":["17:00 - 18:00","16:00 - 17:00","9:00 - 10:00"],"Tuesday":["11:00 - 12:00","12:00 - 13:00","15:00 - 16:00"],"Wednesday":["10:00 - 11:00","11:00 - 12:00"],"Thursday":["9:00 - 10:00","10:00 - 11:00"],"Friday":["9:00 - 10:00","12:00 - 13:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc197","gender":"Male","specialty":"Cardiology","location":"Delhi","rating":"4.2","active":true,"availability":{"Monday":["16:00 - 17:00"],"Tuesday":["13:00 - 14:00","13:00 - 14:00","14:00 - 15:00"],"Wednesday":["15:00 - 16:00","10:00 - 11:00","16:00 - 17:00"],"Thursday":["13:00 - 14:00","9:00 - 10:00"],"Friday":["15:00 - 16:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc198","gender":"Female","specialty":"Pediatrics","location":"Pune","rating":"4.7","active":true,"availability":{"Monday":["15:00 - 16:00","13:00 - 14:00"],"Tuesday":["17:00 - 18:00","17:00 - 18:00"],"Wednesday":["8:00 - 9:00"],"Thursday":["10:00 - 11:00"],"Friday":["11:00 - 12:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc199","gender":"Female","specialty":"Dermatology","location":"Mumbai","rating":"3.7","active":true,"availability":{"Monday":["14:00 - 15:00","10:00 - 11:00"],"Tuesday":["8:00 - 9:00","11:00 - 12:00","12:00 - 13:00"],"Wednesday":["14:00 - 15:00","11:00 - 12:00"],"Thursday":["17:00 - 18:00"],"Friday":["12:00 - 13:00"]}}
+{"index":{"_index":"doctors"}}
+{"name":"Dr.testDoc200","gender":"Female","specialty":"Ophthalmology","location":"Bangalore","rating":"3.5","active":true,"availability":{"Monday":["10:00 - 11:00","11:00 - 12:00","8:00 - 9:00"],"Tuesday":["8:00 - 9:00"],"Wednesday":["10:00 - 11:00"],"Thursday":["10:00 - 11:00"],"Friday":["16:00 - 17:00","10:00 - 11:00","13:00 - 14:00"]}}
